@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	jarjar binks	comic team lead		@darth_jarjar 
 
 # THANKS
 
