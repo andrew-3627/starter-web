@@ -12,4 +12,6 @@ To provide simple examples for git training demos.
 
 ## Deployment
 
+This simple website can be deployed on any web server or local file system. Additional text.
+
 ## How To Contribute
