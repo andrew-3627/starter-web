@@ -15,3 +15,6 @@ To provide simple examples for git training demos.
 This simple website can be deployed on any web server or local file system. Additional text.
 
 ## How To Contribute
+
+## Copyright
+2014 Git Training
