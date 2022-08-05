@@ -16,5 +16,7 @@ This simple website can be deployed on any web server or local file system. Addi
 
 ## How To Contribute
 
+Submit to the will of Darth JarJar.
+
 ## Copyright
 2014 Git Training
