@@ -16,7 +16,7 @@ This simple website can be deployed on any web server or local file system. Addi
 
 ## How To Contribute
 
-Added a line for rebase example
+Added a line for rebase example. Added more changes.
 
 ## Copyright
 2014 Git Training
